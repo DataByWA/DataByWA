@@ -1,9 +1,33 @@
 ## Hi there 👋
 
-My name is Wash, and I am a Settlements Analyst in the energy industry.
+I'm a Mechanical Engineering graduate with a passion for mechanical design and product development. I'm building practical engineering skills through SOLIDWORKS projects, engineering drawings, assemblies, and design calculations.
 
-In my free time, I work on improving my MATLAB skills. Why MATLAB? It was the first engineering programming language I learned and used during my degree, and I quickly developed a strong interest in it.
+## Current Focus
+• SOLIDWORKS Design Fundamentals
+• Mechanical CAD Design
+• Design for Manufacturing (DFM)
+• GD&T
+• Engineering Drawings
+• CSWA Certification Preparation
 
-I enjoyed using MATLAB so much that I based my dissertation on “The Technical Analysis of Hydrogen Engines,” where MATLAB played a key role in the analytical aspects of the project. This experience helped drive my interest in analysis and ultimately led me toward a career within the energy industry.
+## Technical Skills
+• SOLIDWORKS (Learning)
+• Siemens NX
+• MATLAB
+• Python (Pandas, Numpy, Matplotlib)
+• Microsoft Excel
+• SQL (MySQL)
+• Engineering Calculations
+• Technical Documentation
 
-I began my career as an Operations Analyst before transitioning into a Settlements Analyst role. Through my current role and my continued MATLAB learning projects, I hope to combine the analytical and technical skills I have gained to progress further into energy engineering.
+## Portfolio Projects
+🔹 Mechanical Components
+🔹 Assemblies
+🔹 Engineering Drawings
+🔹 Design Calculations
+🔹 Design Challenges
+
+## Goals
+Developing industry-standard CAD skills and building a portfolio of real-world engineering projects.
+
+📫 Feel free to explore my repositories and follow my progress.
