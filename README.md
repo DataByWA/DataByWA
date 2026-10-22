@@ -23,12 +23,12 @@ I'm a Mechanical Engineering graduate with a passion for **Computational Fluid D
 
 ## Portfolio Projects
 
-- 🔹 Internal Pipe Flow Simulations
-- 🔹 Velocity and Pressure Distribution Analysis
-- 🔹 External Flow and Aerodynamics
-- 🔹 Mesh Independence Studies
-- 🔹 CFD Results Visualisation
-- 🔹 Simulation Validation and Engineering Calculations
+-  Internal Pipe Flow Simulations
+-  Velocity and Pressure Distribution Analysis
+-  External Flow and Aerodynamics
+-  Mesh Independence Studies
+-  CFD Results Visualisation
+-  Simulation Validation and Engineering Calculations
 
 ## Goals
 
