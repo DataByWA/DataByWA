@@ -1,33 +1,38 @@
+
 ## Hi there 👋
 
-I'm a Mechanical Engineering graduate with a passion for mechanical design and product development. I'm building practical engineering skills through SOLIDWORKS projects, engineering drawings, assemblies, and design calculations.
+I'm a Mechanical Engineering graduate with a passion for **Computational Fluid Dynamics (CFD)**, fluid mechanics, and numerical simulations. I'm developing practical engineering skills through CFD projects using **OpenFOAM** and **ParaView**, supported by engineering theory and mathematical analysis.
 
 ## Current Focus
-• SOLIDWORKS Design Fundamentals
-• Mechanical CAD Design
-• Design for Manufacturing (DFM)
-• GD&T
-• Engineering Drawings
-• CSWA Certification Preparation
+
+- Computational Fluid Dynamics (CFD)
+- OpenFOAM Simulations
+- ParaView Post-Processing and Visualisation
+- Fluid Mechanics and Flow Analysis
+- Meshing and Boundary Conditions
+- Simulation Results and Validation
 
 ## Technical Skills
-• SOLIDWORKS (Learning)
-• Siemens NX
-• MATLAB
-• Python (Pandas, Numpy, Matplotlib)
-• Microsoft Excel
-• SQL (MySQL)
-• Engineering Calculations
-• Technical Documentation
+
+- **CFD:** OpenFOAM (Learning), ParaView (Learning)
+- **Programming:** MATLAB, Python (Pandas, NumPy, Matplotlib)
+- **Engineering Software:** Siemens NX
+- **Data Analysis:** Microsoft Excel, SQL (MySQL)
+- **Engineering:** Fluid Mechanics, Engineering Calculations, Numerical Analysis
+- **Documentation:** Technical Reports and Simulation Documentation
 
 ## Portfolio Projects
-🔹 Mechanical Components
-🔹 Assemblies
-🔹 Engineering Drawings
-🔹 Design Calculations
-🔹 Design Challenges
+
+- 🔹 Internal Pipe Flow Simulations
+- 🔹 Velocity and Pressure Distribution Analysis
+- 🔹 External Flow and Aerodynamics
+- 🔹 Mesh Independence Studies
+- 🔹 CFD Results Visualisation
+- 🔹 Simulation Validation and Engineering Calculations
 
 ## Goals
-Developing industry-standard CAD skills and building a portfolio of real-world engineering projects.
+
+Developing practical CFD skills and building a portfolio of engineering simulations that demonstrate my understanding of fluid mechanics, numerical modelling, and engineering analysis.
 
 📫 Feel free to explore my repositories and follow my progress.
+
