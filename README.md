@@ -1,38 +1,37 @@
+# Hi there 👋
 
-## Hi there 👋
-
-I'm a Mechanical Engineering graduate with a passion for **Computational Fluid Dynamics (CFD)**, fluid mechanics, and numerical simulations. I'm developing practical engineering skills through CFD projects using **OpenFOAM** and **ParaView**, supported by engineering theory and mathematical analysis.
+I'm a Mechanical Engineering graduate currently working as a Smart Operations Analyst with a growing interest in Data Engineering, analytics and automation. I'm developing practical data skills through hands-on projects using Python, SQL and data engineering tools, supported by analytical thinking and experience working with operational data.
 
 ## Current Focus
 
-- Computational Fluid Dynamics (CFD)
-- OpenFOAM Simulations
-- ParaView Post-Processing and Visualisation
-- Fluid Mechanics and Flow Analysis
-- Meshing and Boundary Conditions
-- Simulation Results and Validation
+- Data Engineering
+- Python for Data Processing
+- SQL and Database Management
+- ETL Pipelines
+- Data Modelling
+- Data Analytics and Visualisation
 
 ## Technical Skills
 
-- **CFD:** OpenFOAM (Learning), ParaView (Learning)
-- **Programming:** MATLAB, Python (Pandas, NumPy, Matplotlib)
-- **Engineering Software:** Siemens NX
-- **Data Analysis:** Microsoft Excel, SQL (MySQL)
-- **Engineering:** Fluid Mechanics, Engineering Calculations, Numerical Analysis
-- **Documentation:** Technical Reports and Simulation Documentation
+- **Data Engineering:** ETL Concepts, Data Pipelines, Data Modelling
+- **Programming:** Python (Pandas, NumPy, Matplotlib)
+- **Databases:** SQL, MySQL
+- **Data Analysis:** Excel, Data Cleaning, Reporting and Insights
+- **Visualisation:** Power BI, Matplotlib
+- **Engineering:** Analytical Problem Solving, Numerical Analysis
+- **Documentation:** Technical Reports and Project Documentation
 
 ## Portfolio Projects
 
--  Internal Pipe Flow Simulations
--  Velocity and Pressure Distribution Analysis
--  External Flow and Aerodynamics
--  Mesh Independence Studies
--  CFD Results Visualisation
--  Simulation Validation and Engineering Calculations
+- Data Cleaning and Transformation Projects
+- SQL Database Projects
+- ETL Pipeline Development
+- Data Analytics Dashboards
+- Operational Data Analysis
+- End-to-End Data Engineering Projects
 
 ## Goals
 
-Developing practical CFD skills and building a portfolio of engineering simulations that demonstrate my understanding of fluid mechanics, numerical modelling, and engineering analysis.
+Developing practical Data Engineering skills and building a portfolio of projects that demonstrate my ability to collect, transform, analyse and manage data effectively.
 
 📫 Feel free to explore my repositories and follow my progress.
-
